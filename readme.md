@@ -21,7 +21,7 @@
 
 <br>
 
- <ins>**What I'm up to?**</ins>
+ <ins>**What I'm up to?**</ins> (╹ -╹)?
  - Running around in [PicoCTF](https://picoctf.org/)
  - Learning [BurpSuite](https://portswigger.net/web-security/dashboard)
  - Chronically on Discord (˵ •̀ ᴗ - ˵ ) ✧
