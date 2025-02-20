@@ -24,6 +24,8 @@
  <ins>**What I'm up to?**</ins> (╹ -╹)?
  - Running around in [PicoCTF](https://picoctf.org/)
  - Learning [BurpSuite](https://portswigger.net/web-security/dashboard)
+ - Developing an IDS in Python
+ - Creating a cryptography app in C
  - Chronically on Discord (˵ •̀ ᴗ - ˵ ) ✧
  - Homework ( ;´ - `;)
 
